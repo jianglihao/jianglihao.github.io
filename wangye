@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>好工作上智联招聘</title>
+		<style >
+			.one{
+				  position: fixed;
+					    z-index: 999;
+					    border: 1px;
+					    background: white;
+					    width: 1519px;
+					    top: 0px;
+					        left: 0px;
+			}
+			.two{
+   					position: relative;
+					    top: -12px;
+					    font-size: 16px;
+					    left: 105px;
+			}
+			.san{
+				    position: relative;
+					    top: 4px;
+			    			left: 91px;
+			}
+			.si{
+				    background: orange;
+					    color: bisque;
+					    position: relative;
+					    left: 571px;
+    top: -7px;
+    font-size: 10px;
+    height: 24px;
+    width: 153px
+			}
+			.wu{
+					position: relative;
+    top: -7px;
+    font-size: 1px;
+    width: 91px;
+    height: 23px;
+    left: 600px;
+			}
+			.liu{
+				    position: relative;
+					     top: -6px;
+    left: 635px;
+					    font-size: large;
+			}
+			.qi{
+				    position: relative;
+					       top: -6px;
+    left: 659px;;
+					    font-size: larger;
+			}
+			.ba{
+				    display: inline-block;
+					    border: 1px;
+					    height: 371px;
+					    width: 333px;
+					    position: absolute;
+					    left: 987px;
+					    top: 56px;
+					    background: white;
+			}
+			.jiu{
+				    font-size: 25px;
+					    position: relative;
+					    left: 44px;
+					    top: 13px;
+			}
+			.shi{
+					position: absolute;
+					    left: 173px;
+					    top: 74px;
+					    font-size: 35px;
+					        color: #3b3bca
+			}
+			.shiyi{
+				    position: absolute;
+					    left: 17px;
+					    top: 71px;
+					    font-size: 38px;
+					        color: orange
+			}
+          .shier{
+ 			    	position: relative;
+					    left: 43px;
+					    top: 92px;
+					    height: 44px;
+					    width: 238px;
+			}
+			.shisan{
+				    position: relative;
+					    left: 43px;
+					    top: 110px;
+					    height: 44px;
+					    width: 237px;
+			}
+			.shisi{
+				    font-size: large;
+				    position: relative;
+					    left: 68px;
+					    top: 143px;
+					    height: 61px;
+					    width: 198px;
+					    background: blue;
+					    color: bisque;
+			}
+			.shiwu{
+				 position: absolute;
+    top: 494px;
+    height: 239px;
+    width: 1514px;
+			}
+			.shiliu{
+					background: url(../img/2..jpg);
+						position: absolute;
+					    top: 779px;
+					    left: 2px;
+					    display: inline-block;
+					    height: 634px;
+					    width: 1518px;
+			}
+			.shiqi{
+				    position: absolute;
+					    top: 159px;
+					    left: 163px;
+         }
+         .shiba{
+         	    	position: relative;
+					    left: 520px;
+					    top: 10px;
+					    color: white;
+					    font-size: 42px;
+         }
+         .shim{
+				    position: absolute;
+					    color: white;
+					    font-size: 24px;
+					    left: 280px;
+					    top: 103px;
+         }
+         .shijiu{
+				    position: absolute;
+					    color: white;
+					    font-size: 24px;
+					    left: 467px;
+					    top: 103px;
+         }
+         .reshi{
+				    position: absolute;
+					    color: white;
+					    font-size: 24px;
+					    left: 649px;
+					    top: 103px;
+
+         }
+         .ershiyi{
+					position: absolute;
+					    color: white;
+					    font-size: 24px;		
+					    left: 823px;
+					    top: 103px;}
+         
+         .ershier{
+         	    position: absolute;
+					    color: white;
+					    font-size: 24px;
+					    left: 1009px;
+					    top: 103px;
+         }
+         .ershisan{
+         		position: absolute;
+					    color: white;
+					    font-size: 24px;
+					    left: 1156px;
+					    top: 103px;
+         }
+         .ershiwu{
+         	    position: absolute;
+					    top: 1365px;
+					    left: -61px;
+					    height: 568px;
+					    width: 1581px;
+					         }
+         .ershiliu{
+         		background: black ;
+	    				top: 1841px;
+						width: 1504px;
+					    height: 118px;
+					    position: absolute;
+					    color: white;
+					    left: 20px;
+					    text-align: center;
+         }
+         .ttt{
+	    				position: absolute;
+					    left: 1008px;
+    top: 17px
+         }
+         .ppp{
+         	     position: absolute;
+					     left: 1247px;
+    top: 17px;
+         }
+         .qqq{
+         	    position: absolute;
+		    top: 21px;
+    left: 1135px;
+         }
+         .mm{
+         	    width: 1523px;
+    position: relative;
+    left: -8px;
+         }
+		</style>
+	</head>
+	<body >
+			<div class="one">
+				<span class="san"><img src="../img/1.png" alt="图片无法加载.." height="40px"/></span>
+				<span class="two">上智联,勇往“值钱”</span>
+				<button class="si">企业注册免费发布职位</button>
+				<span class="ttt">|</span>
+				<button class="wu">企业登录</button>
+				<span class="ppp">|</span>
+				<img src="../img/7.png" alt="无法加载" class="qqq"/>
+				<span class="liu">智联APP</span>
+				<span class="qi">下载企业版APP</span> 
+			</div>             
+		<div>
+			<img src="../img/3.jpg" alt="图片无法加载.." class="mm"/>
+			<div class="ba">
+				<span class="jiu">-----求职找工作-----</span>
+				<span class="shiyi">6秒注册，</span>
+				<span class="shi">立获高薪</span>
+				<input class="shier" type="number" placeholder="请输入手机号" name="name"/>
+				<input  class="shisan" placeholder="请输入密码"name="name"/>
+				<button class="shisi" >求职者 注册/登录</button>
+			</div>
+		</div>
+		<div>
+			<img src="../img/d.jpg" alt="图片无法加载" class="shiwu"    />
+		</div>
+		<div class="shiliu">
+				<span class="shiba">知名企业覆盖超过513万+</span>
+				<img src="../img/05.png" alt="图片无法加载"  class="shiqi"/>
+				<span class="shim">IT互联网</span>
+				<span class="shijiu">制造业</span>
+				<span class="reshi">房地产</span>
+				<span class="ershiyi">消费品</span>
+				<span class="ershier">金融</span>
+				<span class="ershisan">服务业</span>
+		</div>
+		<div>
+			<img src="../img/download.jpg" alt="图片无法加载" class="ershiwu" />
+		</div>
+		<div class="ershiliu">
+			<span>智联介绍 &nbsp;| |</span>
+				<span>网站地图&nbsp;|</span>
+				<span>加入智联&nbsp;|</span>
+				<span>法律声明&nbsp;|</span>
+				<span>隐私政策&nbsp;|</span>
+				<span>联系方式&nbsp;|</span>
+				<span>常见问题&nbsp;|</span>
+				<span>您对 Zhaopin.com 有任何建议或意见请联系我们<br />
+			未经zhaopin.com 同意，不得转载本网站之所有招聘信息及作品 智联招聘网版权所有© 1997-2020<br />
+			京ICP备12025925号 电信业务审批[2001]字第233号函 京公网安备110105000322 网络文化经营许可证<br />
+			违法不良信息举报 违法不良信息举报电话:400-885-9898 举报邮箱:help@zhaopin.com.cn</span>
+		</div>
+	</body>
+</html>
